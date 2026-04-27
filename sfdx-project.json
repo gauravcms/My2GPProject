@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "demoAcc",
+      "versionName": "V0.1.0",
+      "versionNumber": "1.0.0.NEXT"
+    }
+  ],
+  "name": "My2GPProject",
+  "namespace": "DemoMP",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "66.0",
+  "packageAliases": {
+    "demoAcc": "0HogK0000002LunSAE",
+    "demoAcc@1.0.0-1-main": "04tgK000000CS3lQAG"
+  }
+}
