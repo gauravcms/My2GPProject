@@ -4,8 +4,9 @@
       "path": "force-app",
       "default": true,
       "package": "demoAccManaged",
-      "versionName": "V1.0.0",
-      "versionNumber": "1.0.0.NEXT"
+      "versionName": "V1.1.0",
+      "versionNumber": "1.1.0.NEXT",
+      "ancestorId": "04tgK000000CUGrQAO"
     }
   ],
   "name": "My2GPProject",
@@ -14,6 +15,7 @@
   "sourceApiVersion": "66.0",
   "packageAliases": {
     "demoAccManaged": "0HogK0000002Nq9SAE",
-    "demoAccManaged@1.0.0-1": "04tgK000000CUGrQAO"
+    "demoAccManaged@1.0.0-1": "04tgK000000CUGrQAO",
+    "demoAccManaged@1.1.0-1": "04tgK000000CUYbQAO"
   }
 }
